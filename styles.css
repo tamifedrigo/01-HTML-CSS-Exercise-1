@@ -1,0 +1,71 @@
+.center {
+    display: flex;
+    text-align: center; 
+
+}
+
+/* TO DO: heading is bold font-weight */
+h1 {
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 5%;
+    text-align: center;
+
+}
+/* TO DO: body background color:  light blue */
+body { 
+    background-color: lightblue;
+}
+
+form {
+    margin: auto;
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+/*TO DO:  italicized text */
+h5 {
+    font-style: italic;
+    color: gray;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: #3598DB;
+    width: 101%;
+    margin-top: 30px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+h6 {
+    color: gray;
+    text-align: center;
+}
+/* TO DO:  text input fields have border-bottom only*/
+input {
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+    border-bottom: 2px solid gray;
+    width: 100%;
+    padding-top: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}    
+#link {
+    text-decoration: none;
+}
+
+.password{
+    width:120px;
+    padding-left:4px;
+}
+
+.forgot{
+    width:300px;
+    text-align:right;
+    padding-right:4px;
+}
+/*TO DO:  border-radius on form */
+/* TO DO:  box-shadow on form
